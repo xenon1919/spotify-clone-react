@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 # 🎵 Spotify Clone - React & Tailwind CSS
 
@@ -17,4 +17,4 @@ A **modern Spotify Clone** built using **React.js** and **Tailwind CSS**, provid
 - **Frontend**: React.js, Tailwind CSS
 - **State Management**: Context API
 
-=======
+
